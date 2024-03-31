@@ -7,9 +7,13 @@ The Y Combinator Company Web Scraping project involves building a custom web scr
 
  
 ## Deployment
-
-To deploy this program run
-
+To deploy this project, follow these steps:
+1. Ensure that `tsx` is already installed.
+```bash
+  npm install -g tsx
+```
+2. Run the following commands:
+   
 ```bash
   npm install
   tsx runner.ts
